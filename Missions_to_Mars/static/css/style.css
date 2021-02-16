@@ -1,0 +1,47 @@
+h1 {
+    color:   #ffffff;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+
+h2 {
+    color:   #002a57;620000
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+}
+
+h3 {
+    color: #002a57;
+    font-size: 18px;
+}
+
+h4 {
+    color: #002a57;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.btn-primary {
+    color:#800000;
+    background-color: #ffffff;
+    border-color:#000000;
+    font-weight: bold;
+    }
+.jumbotron {
+    padding: 5rem 4rem;
+    margin-bottom: 5rem;
+    background-image: image-set('1500x500.jpeg');
+    background-color: #640000;
+    border-radius: .5rem;
+    }
+
+.text-white {
+    margin: 30px; 
+}
+
+.card-img-top {
+    width: 100%;
+}
